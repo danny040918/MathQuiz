@@ -25,5 +25,8 @@
 
 <img width="1036" height="281" alt="스크린샷 2026-08-05 오후 5 56 20" src="https://github.com/user-attachments/assets/f7cdb330-5508-49f3-bb87-39e96b356779" />
 
-## 6. Clone 및 Pull 실습 증빙
-- Pull 실습을 위해 추가한 문장입니다!
+## 6. README에 clone/pull 절차 및 결과 스크린샷
+
+<img width="809" height="215" alt="a1" src="https://github.com/user-attachments/assets/16682595-8aeb-408d-9915-0b6b6c39b140" />
+
+<img width="810" height="110" alt="a2" src="https://github.com/user-attachments/assets/ebc47fca-6476-46ae-875d-c69d22bf7ca2" />
