@@ -15,3 +15,7 @@
    python main.py
 
    하이하이하이요
+
+## 4. 커밋 이력(10개 이상) 증빙
+
+<img width="752" height="220" alt="스크린샷 2026-08-05 오후 5 42 10" src="https://github.com/user-attachments/assets/0df22ff4-88bf-4475-bfa2-e9e2614efa0c" />
