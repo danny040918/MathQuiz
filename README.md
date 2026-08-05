@@ -16,14 +16,8 @@
 
    하이하이하이요
 
-## 4. git log 또는 커밋 스크린샷
+- 브랜치 및 머지 테스트 완료
 
-<img width="752" height="220" alt="스크린샷 2026-08-05 오후 5 42 10" src="https://github.com/user-attachments/assets/0df22ff4-88bf-4475-bfa2-e9e2614efa0c" />
-
-
-## 5. git log와 merge 기록 스크린샷
-
-<img width="1036" height="281" alt="스크린샷 2026-08-05 오후 5 56 20" src="https://github.com/user-attachments/assets/f7cdb330-5508-49f3-bb87-39e96b356779" />
-
-## 6. Clone 및 Pull 실습 증빙
-- Pull 실습을 위해 추가한 문장입니다!
+## 🚀 Git Clone & Pull 실습 기록
+- **Clone 실습**: `git clone https://github.com/danny040918/MathQuiz.git` 명령어를 사용하여 GitHub의 원격 저장소를 로컬 컴퓨터로 복제하는 실습을 진행했습니다.
+- **Pull 실습**: `git pull origin main` 명령어를 사용하여 원격 저장소의 최신 변경 사항을 로컬로 가져와 병합(Merge)했습니다. (Push 충돌 에러 해결 과정에서 실습 완료)
