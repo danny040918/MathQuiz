@@ -16,5 +16,13 @@
 
    하이하이하이요
    ```
-## git log 또는 커밋 스크린샷
+## - git log 또는 커밋 스크린샷
+
+<img width="752" height="220" alt="a-1" src="https://github.com/user-attachments/assets/2508cf23-45dc-4fda-89a5-ace57a1e58d9" />
+
+## - git log와 merge 기록 스크린샷
+
+<img width="1036" height="281" alt="a0" src="https://github.com/user-attachments/assets/08dc4fbe-23fa-42e2-83d1-649ca3a4d5a3" />
+
+
 
