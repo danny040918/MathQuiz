@@ -16,16 +16,16 @@
 
    하이하이하이요
 
-## 4. git log 또는 커밋 스크린샷
+## - git log 또는 커밋 스크린샷
 
 <img width="752" height="220" alt="스크린샷 2026-08-05 오후 5 42 10" src="https://github.com/user-attachments/assets/0df22ff4-88bf-4475-bfa2-e9e2614efa0c" />
 
 
-## 5. git log와 merge 기록 스크린샷
+## - git log와 merge 기록 스크린샷
 
 <img width="1036" height="281" alt="스크린샷 2026-08-05 오후 5 56 20" src="https://github.com/user-attachments/assets/f7cdb330-5508-49f3-bb87-39e96b356779" />
 
-## 6. README에 clone/pull 절차 및 결과 스크린샷
+## - README에 clone/pull 절차 및 결과 스크린샷
 
 * **clone**
 <img width="809" height="215" alt="a1" src="https://github.com/user-attachments/assets/16682595-8aeb-408d-9915-0b6b6c39b140" />
