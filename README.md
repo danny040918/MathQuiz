@@ -27,8 +27,8 @@
 
 ## 6. README에 clone/pull 절차 및 결과 스크린샷
 
-* ** clone **
+* **clone**
 <img width="809" height="215" alt="a1" src="https://github.com/user-attachments/assets/16682595-8aeb-408d-9915-0b6b6c39b140" />
 
-* ** pull **
+* **pull**
 <img width="810" height="110" alt="a2" src="https://github.com/user-attachments/assets/ebc47fca-6476-46ae-875d-c69d22bf7ca2" />
