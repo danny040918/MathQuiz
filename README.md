@@ -24,5 +24,10 @@
 
 <img width="1036" height="281" alt="a0" src="https://github.com/user-attachments/assets/08dc4fbe-23fa-42e2-83d1-649ca3a4d5a3" />
 
+## - README에 clone/pull 절차 및 결과 스크린샷
 
+* **clone**
+<img width="809" height="215" alt="a1" src="https://github.com/user-attachments/assets/7dc314cf-d127-4d58-b94c-73686e4703e1" />
 
+* **pull**
+<img width="810" height="110" alt="a2" src="https://github.com/user-attachments/assets/53c0a173-a1e3-40cf-a035-58934567ce92" />
