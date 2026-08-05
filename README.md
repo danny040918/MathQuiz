@@ -24,3 +24,6 @@
 ## 5. git log와 merge 기록 스크린샷
 
 <img width="1036" height="281" alt="스크린샷 2026-08-05 오후 5 56 20" src="https://github.com/user-attachments/assets/f7cdb330-5508-49f3-bb87-39e96b356779" />
+
+## 6. Clone 및 Pull 실습 증빙
+- Pull 실습을 위해 추가한 문장입니다!
