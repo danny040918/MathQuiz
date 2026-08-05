@@ -16,6 +16,9 @@
 
    하이하이하이요
    ```
+
+# 보완 내용 설명
+
 ## - git log 또는 커밋 스크린샷
 
 <img width="752" height="220" alt="a-1" src="https://github.com/user-attachments/assets/2508cf23-45dc-4fda-89a5-ace57a1e58d9" />
